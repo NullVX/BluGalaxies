@@ -1,18 +1,18 @@
 # Hi there, I'm NullV 👋
 
 Welcome to my GitHub profile!  
-I'm a passionate developer who loves building cool projects and exploring new technologies.
+I'm a passionate developer who enjoys building innovative projects and exploring new technologies.
 
 ---
 
 ## About Me
 
-- 🔭 I’m currently working on exciting projects
-- 🌱 I’m continuously learning and improving my skills in HTML/CSS/JAVASCRIPT
-- 💬 Ask me about anything related to Python, Lua
-- 📫 How to reach me: Discord: function.null
+- 🔭 Currently working on some exciting projects  
+- 🌱 Continuously improving my skills in HTML, CSS, and JavaScript  
+- 💬 Feel free to ask me about Python and Lua  
+- 📫 How to reach me: Discord — `function.null`  
 
-- ⚡ Fun fact: I make my life harder coding things that are supposed to make it easier 🤣
+- ⚡ Fun fact: I often make my life harder by coding tools that are supposed to make it easier! 🤣
 
 ---
 
@@ -24,7 +24,7 @@ I'm a passionate developer who loves building cool projects and exploring new te
 
 ## Connect with me
 
-
+[![Discord](https://img.shields.io/badge/Discord-function.null-7289DA?logo=discord&logoColor=white)](https://discord.gg/ByS6xeKBMh)
 
 ---
 
